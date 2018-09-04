@@ -1,4 +1,5 @@
 # Welcome to [~~L0k0 Answer~~]\* coming soon
+###  [Suggestion here](https://github.com/SubhamTyagi/loco-socket/issues/1)
 
 ## Features:
 
@@ -29,7 +30,8 @@
  ## Support: 
  
  -    If you need any help, open an issue, I will try to help.
- -    if you want to contribute some code than make pull request.
+ -    If you want to contribute some code than make pull request.
+ -    If you have any suggestion post [here](https://github.com/SubhamTyagi/loco-socket/issues/1)
  ## Disclaimer:
  -   This is meant for educational use only, I do not advise you to use this in an actual  game.
  
