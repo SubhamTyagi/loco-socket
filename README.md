@@ -36,4 +36,4 @@
  ### Notes:
  - I'm not sure how often the `Bearer id` expires. If the web socket feature stops working for you, try to get new `Bearer id`.
  - \* App name will based on user suggestion
- - \^ If these available required. 
+ - \^ If these available . 
