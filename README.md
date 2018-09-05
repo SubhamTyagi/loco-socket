@@ -16,7 +16,7 @@
  
  - For [mitmproxy](https://mitmproxy.org/) read [here](https://blog.heckel.xyz/2013/07/01/how-to-use-mitmproxy-to-read-and-modify-https-traffic-of-your-phone/) 
  - Either use [packet sniffer app](https://play.google.com/store/apps/collection/search_results_cluster_apps?clp=ggEQCg5wYWNrZXQgc25uaWZlcg==:S:ANO1ljKjtX4) available on play store
- - Open Loco app and intercept `Authorization`  header : hint it is start with `Bearer`.
+ - Open Loco app and intercept `Authorization`  header in either mitmproxy or packet sniffer app : hint it is start with `Bearer`.
  - Check `Response`  and find `user id`
  -  Add these values in App.
 ## To Do
