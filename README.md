@@ -29,7 +29,7 @@
  - [ ]  add automatic method to intercept `Bearer id`
  ## Support: 
  
- -    If you need any help, open an issue, I will try to help.
+ -    If you need any help,[Post here](https://github.com/SubhamTyagi/loco-socket/issues/1) , I will try to help.
  -    If you want to contribute some code than make pull request.
  -    If you have any suggestion post [here](https://github.com/SubhamTyagi/loco-socket/issues/1)
  ## Disclaimer:
